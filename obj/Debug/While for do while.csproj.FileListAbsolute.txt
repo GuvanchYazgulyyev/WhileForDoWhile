@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\bin\Debug\While for do while.exe.config
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\bin\Debug\While for do while.exe
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\bin\Debug\While for do while.pdb
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\obj\Debug\While for do while.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\obj\Debug\While_for_do_while.Form1.resources
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\obj\Debug\While_for_do_while.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\obj\Debug\While for do while.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\obj\Debug\While for do while.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\obj\Debug\While for do while.exe
+C:\Users\Dell\source\repos\C# ders 9\While for do while\While for do while\obj\Debug\While for do while.pdb
